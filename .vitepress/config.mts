@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/portfolio/',
+  base: '/',
   title: 'Portfolio',
   description: 'My portfolio',
 
