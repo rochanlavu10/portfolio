@@ -3,23 +3,14 @@
 layout: home
 
 hero:
-  name: "Rochan's E-Portfolio"
-  text: ":)"
-  tagline: My great project tagline
+  name: "Rochan's E-Portfolio :)"
+  text: ""
+  tagline: Hi! I am Lavu Rochan Reddy, a Secondary 4 student with a passion for software development and artificial intelligence. I am interested building software, exploring how the technologies around us work and tinkering with hardware. This website was built with VitePress and is hosted on Github Pages.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Contact Me
+      link: /contact
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 ---
 
